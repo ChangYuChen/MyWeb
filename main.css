@@ -1,0 +1,17 @@
+.title,.video,.character{
+  margin-top:100px ;
+  margin-left:400px ;
+  margin-right:400px ;
+}
+.story{
+  margin-left:200px ;
+  margin-right:200px ;
+}
+aside{
+    width:300px;
+}
+img.picture{
+  margin-right:30px ;
+  width:300px;
+  height:300px;
+}
