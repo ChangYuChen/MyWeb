@@ -1,17 +1,45 @@
-.title,.video,.character{
-  margin-top:100px ;
-  margin-left:400px ;
-  margin-right:400px ;
+.container,.go{
+  background-color:#300000;
+}
+.title{
+  margin-left:0% ;
+}
+.video{
+  margin-left:20% ;
+}
+.character{
+  margin-left:40% ;
+}
+.picture-title{
+  margin-left:5% ;
 }
 .story{
-  margin-left:200px ;
-  margin-right:200px ;
+  color:white;
+  margin-left:20% ;
+  margin-right:20% ;
+}
+.section-title,.video-title,.character-title,.picture-title{
+  color:white;
 }
 aside{
     width:300px;
 }
+img.picture1{
+  margin-left:0% ;
+}
 img.picture{
-  margin-right:30px ;
-  width:300px;
-  height:300px;
+  margin-left:10% ;
+}
+img.picture2{
+  margin-left:30% ;
+}
+.word{
+  color:white;
+}
+.go{
+  background-color:#300000;
+}
+.word2{
+  margin-left:80% ;
+  color:white;
 }
