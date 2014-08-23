@@ -1,6 +1,7 @@
 .container,.go{
   background-color:#300000;
 }
+<<<<<<< HEAD
 .go2{
   background-color:#300000;
 }
@@ -9,11 +10,23 @@
 }
 .video{
   margin-left:20% ;
+=======
+.title{
+  margin-left:25% ;
+}
+.video{
+  margin-left:10% ;
+>>>>>>> origin/gh-pages
 }
 .character{
   margin-left:40% ;
 }
 .picture-title{
+<<<<<<< HEAD
+=======
+  weight:300px;
+  height:300px;
+>>>>>>> origin/gh-pages
   margin-left:5% ;
 }
 .story{
@@ -28,12 +41,27 @@ aside{
     width:300px;
 }
 img.picture1{
+<<<<<<< HEAD
   margin-left:0% ;
 }
 img.picture{
   margin-left:10% ;
 }
 img.picture2{
+=======
+  weight:200px;
+  height:200px;
+  margin-left:0% ;
+}
+img.picture{
+  weight:200px;
+  height:200px;
+  margin-left:10% ;
+}
+img.picture2{
+  weight:200px;
+  height:200px;
+>>>>>>> origin/gh-pages
   margin-left:30% ;
 }
 .word{
@@ -45,4 +73,8 @@ img.picture2{
 .word2{
   margin-left:80% ;
   color:white;
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> origin/gh-pages
