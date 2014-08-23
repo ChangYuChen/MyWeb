@@ -27,12 +27,18 @@ aside{
     width:300px;
 }
 img.picture1{
+  weight:300px;
+  height:300px;
   margin-left:0% ;
 }
 img.picture{
+  weight:300px;
+  height:300px;
   margin-left:10% ;
 }
 img.picture2{
+  weight:300px;
+  height:300px;
   margin-left:30% ;
 }
 .word{
